@@ -221,6 +221,9 @@ If you want to contribute information about a module, please refer to the [guide
 * **[[play1-chart] ](http://sant0s.github.io/play1-chart/) [Play1-Chart](https://github.com/sant0s/play1-chart)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-no-red.svg?style=flat)](https://github.com/sant0s/play1-chart) The Chart module allows for easy generation of chart images. 
 
 # Tools
+
+* **[[play1-lombok] ](https://github.com/aaronfreeman/play-lombok/) [Play1-Lombok](https://github.com/aaronfreeman/play-lombok)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-no-red.svg?style=flat)](https://github.com/aaronfreeman/play-lombok) Use Lombok(https://projectlombok.org/) Annotations in Play.
+
 *You know a tool that every player should use? [Tell us!](https://github.com/PerfectCarl/awesome-play1/edit/master/README.md)*
 
 # Resources
